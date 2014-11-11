@@ -5,7 +5,7 @@ var pattern = function(file) {
 };
 
 var framework = function(files) {
-  files.unshift(pattern(path.resolve(require.resolve('rosie'), '../src/rosie.js')));
+  files.unshift(pattern(path.resolve(require.resolve('rosie'), '../rosie.js')));
 };
 
 framework.$inject = ['config.files'];
