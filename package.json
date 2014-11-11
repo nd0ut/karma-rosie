@@ -1,0 +1,23 @@
+{
+  "name": "karma-rosie",
+  "version": "0.0.1",
+  "description": "Karma adapter for rosie",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "factory",
+    "rosie"
+  ],
+  "author": "nd0ut <nd0ut.me@gmail.com>",
+  "contributors": [],
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": "^0.12.1",
+    "rosie": "^0.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nd0ut/karma-rosie.git"
+  },
+  "main": "./index.js"
+}
