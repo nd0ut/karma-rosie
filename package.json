@@ -1,6 +1,6 @@
 {
   "name": "karma-rosie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Karma adapter for rosie",
   "keywords": [
     "karma",
